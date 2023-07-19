@@ -1,2 +1,2 @@
 # Project.Quiz
-Projeto desenvolvido nas aulas de programação
+Projeto desenvolvido nas aulas de programação em Python
